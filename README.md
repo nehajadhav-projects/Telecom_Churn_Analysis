@@ -23,7 +23,7 @@ ________________________________________
 -	Identified patterns in the data, such as higher churn rates among specific demographics and payment methods.
 5.	Modeling (Optional)
 -	If applicable, implemented machine learning models (e.g., logistic regression, decision trees) to predict churn and validate insights.
--	<a href="">View Dataset that Used</a>
+-	<a href="https://github.com/nehajadhav-projects/Telecom_Churn_Analysis/blob/main/telecom_customer_churn.csv">View Dataset that Used</a>
 ________________________________________
 ## Insights
 1.	Overall Churn Rate:
